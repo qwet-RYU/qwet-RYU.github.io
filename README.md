@@ -1,3 +1,3 @@
 #Website Sederhana
 
-HSI BOARDING SCHOOL
+Website Tahun Pertama Semester Pertama
