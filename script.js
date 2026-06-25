@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('tahfidz-link'),
     document.getElementById('susursungai-link'),
     document.getElementById('media-link')
+    document.getElementById('mutun-link')
   ];
 
   // Tambahkan event listener pada setiap link
